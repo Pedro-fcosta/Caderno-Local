@@ -255,7 +255,7 @@ O sistema continua sendo o mesmo.
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/SEU-USUARIO/caderno-local.git
+git clone https://github.com/Pedro-fcosta/caderno-local.git
 cd caderno-local
 ```
 
