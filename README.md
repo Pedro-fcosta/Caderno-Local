@@ -46,6 +46,10 @@ O projeto foi criado inicialmente para preparação em concursos técnicos, mas 
 
 A barra lateral usa a assinatura branca completa, enquanto a página inicial mostra uma ilustração própria de caderno e o ícone do navegador usa o símbolo verde e amarelo. As capturas de tela da versão pública serão adicionadas quando o pacote de demonstração estiver pronto.
 
+<div align="center">
+  <img src="docs/screenshots/interface.png" alt="Interface do Caderno Local" width="900">
+</div>
+
 ---
 
 ## ✨ Por que o Caderno Local?
@@ -93,6 +97,10 @@ ou:
 
 > `Todas as questões difíceis de Mecânica dos Fluidos que ainda não resolvi`
 
+<div align="center">
+  <img src="docs/screenshots/filtros.png" alt="Filtros do banco de questões" width="900">
+</div>
+
 ### ✅ Resolução de questões
 
 Ambiente próprio para estudo com:
@@ -107,6 +115,10 @@ Ambiente próprio para estudo com:
 ### ⏱️ Cronometragem
 
 Acompanhe quanto tempo você leva para resolver cada questão e use esse dado para melhorar velocidade de prova.
+
+<div align="center">
+  <img src="docs/screenshots/questões.png" alt="Tela de resolução de questões" width="900">
+</div>
 
 ### 🔁 Revisão de erros
 
@@ -126,6 +138,10 @@ Revisão
 Nova tentativa
 ```
 
+<div align="center">
+  <img src="docs/screenshots/revisão.png" alt="Sistema de revisão do Caderno Local" width="900">
+</div>
+
 ### 📊 Dashboard
 
 Acompanhe sua evolução com indicadores como:
@@ -140,15 +156,51 @@ Acompanhe sua evolução com indicadores como:
 - pontos fortes;
 - assuntos que precisam de revisão.
 
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="docs/screenshots/dashboard-1.png" alt="Dashboard geral" width="100%">
+      <br>
+      <strong>Dashboard geral</strong>
+    </td>
+    <td width="50%" align="center">
+      <img src="docs/screenshots/dashboard-2.png" alt="Dashboard de desempenho" width="100%">
+      <br>
+      <strong>Desempenho</strong>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="docs/screenshots/dashboard-3.png" alt="Estatísticas por matéria" width="100%">
+      <br>
+      <strong>Estatísticas por matéria</strong>
+    </td>
+    <td width="50%" align="center">
+      <img src="docs/screenshots/dashboard-4.png" alt="Análise de progresso" width="100%">
+      <br>
+      <strong>Análise de progresso</strong>
+    </td>
+  </tr>
+</table>
+
+
 ### 🧪 Simulados
 
 Monte sessões com filtros específicos ou conjuntos de questões para simular uma prova.
+
+<div align="center">
+  <img src="docs/screenshots/simulados.png" alt="Simulados do Caderno Local" width="900">
+</div>
 
 ### 📥 Importação de questões
 
 Na página **Importar questões**, baixe `modelo_questoes.xlsx`, copie o prompt para a IA da sua escolha, anexe as provas e seus gabaritos definitivos e confira a planilha resultante. A página mostra seis etapas do processo e permite importar o `.xlsx` validado. A aba deve se chamar `Questoes`. São aceitas questões com quatro ou cinco alternativas ou do tipo Certo/Errado; não invente uma alternativa E em provas de quatro opções.
 
 Uma seção **Ajuda** reúne 56 respostas em oito categorias, com pesquisa por termo. O texto do prompt também pode ser consultado em `docs/prompt-importacao.txt`.
+
+<div align="center">
+  <img src="docs/screenshots/importação.png" alt="Importação de questões no Caderno Local" width="900">
+</div>
 
 ### 🧩 Controle de duplicatas
 
@@ -291,6 +343,10 @@ planilhas preenchidas, provas e gabaritos pessoais permanecem no computador do u
 6. **Resolva**, analise o desempenho e revise os erros.
 
 ---
+
+<div align="center">
+  <img src="docs/screenshots/como-usar.png" alt="Como usar o Caderno Local" width="900">
+</div>
 
 ## 🎯 Exemplo de uso
 
