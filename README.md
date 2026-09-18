@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/assets/brand/caderno-local-logo.png" alt="Caderno Local" width="360">
+<img src="docs/assets/brand/caderno-local-branca.png" alt="Caderno Local" width="360">
 
 <br>
 
